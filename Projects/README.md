@@ -19,4 +19,4 @@
 ●	Gained valuable insights into the professional landscape from industry seniors, which assisted me in my journey into the realm of data analysis.
 
 
-#### Note:The code is placed on the pages following the PDF (the program file is not provided separately for direct download).
+#### Note: The code is placed on the pages following the PDF (the program file is not provided separately for direct download).
