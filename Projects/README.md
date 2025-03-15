@@ -7,7 +7,7 @@
 ●	Used the ARIMA model to analyse NVIDIA’s stock data from the past decade.
 ●	Attempted to predict future stock market trends with R.
 
-### Regression Analysis-- Fall 2023
+### Regression Analysis- Fall 2023
 ●	Used the housing price data on Kaggle to conduct regression analysis and made predictions with R and SAS.  
 ●	Used various linear regression methods to find out parameter correlations.
 
