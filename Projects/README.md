@@ -17,3 +17,6 @@
 ●	Used statistical analysis, time series and R programming to analyse and make an interactive website. Link: http://tku41065.shinyapps.io/TSDC6_teamB/  
 ●	Created a traffic light map displaying foot traffic and confirmed cases.  
 ●	Gained valuable insights into the professional landscape from industry seniors, which assisted me in my journey into the realm of data analysis.
+
+
+#### Note:The code is placed on the pages following the PDF (the program file is not provided separately for direct download).
