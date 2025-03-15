@@ -1,9 +1,9 @@
  # statistical analysis project (learned from TKU)
 ## COURSE PROJECTS
-### Logistic Regression (Categorical Data Analysis)                                                         Spring 2024
+### Logistic Regression (Categorical Data Analysis)                                                             Spring 2024
 ●	Used an R program to build a breast cancer tumour classifier through a logistic regression model.
 
-### Time Series                                                                                              Spring 2024
+### Time Series                                                                                                 Spring 2024
 ●	Used the ARIMA model to analyse NVIDIA’s stock data from the past decade.
 ●	Attempted to predict future stock market trends with R.
 
